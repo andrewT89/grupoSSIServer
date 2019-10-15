@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var asignatura_1 = require("./asignatura");
+exports.asignatura = asignatura_1.default;
+var alumno_1 = require("./alumno");
+exports.alumno = alumno_1.default;
+var profesor_1 = require("./profesor");
+exports.profesor = profesor_1.default;
+var genero_1 = require("./genero");
+exports.genero = genero_1.default;
